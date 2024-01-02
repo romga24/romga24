@@ -10,7 +10,7 @@
 
 🌱 Actualmente aprendiendo JavaScript, Git, PHP y profundizando en nuevas tecnologías
 
-👥 Abierto oportunidades de aprendizaje.
+👥 Abierto a nuevas oportunidades de aprendizaje y de trabajo.
 
 
 
