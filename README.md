@@ -1,5 +1,5 @@
 
-👋 ¡Hola, soy Romel! Soy estudiante  de FP de Desarrollo Web y programación.
+👋 ¡Hola, soy Romel! Soy estudiante  de FP de desarrollo Web y programación.
 
 🚀 Me apasiona por la tecnología.
 
