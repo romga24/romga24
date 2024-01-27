@@ -1,9 +1,9 @@
 
-👋 ¡Hola, soy Romel! Soy estudiante  de FP de desarrollo Web y programación.
+👋 ¡Hola, soy Romel! Soy desarrollador web y programador.
 
 🚀 Me apasiona la tecnología.
 
-💻 Habilidades: HTML, CSS, Java, SQL, Bootstrap o JQuery. 
+💻 Habilidades: HTML, CSS, Java, Javascript, SQL, Bootstrap o JQuery. 
 
 🔧 Proyectos Destacados en mi repositorio
 
