@@ -1,15 +1,17 @@
 
-👋 ¡Hola, soy Romel! Soy desarrollador web y programador.
+¡Hola! 👋 Soy Romel, estudiante de informática y apasionado programador.
 
-🚀 Me apasiona la tecnología.
+🚀 Acerca de mí
+- 💻 Habilidades: HTML, CSS, Java, SQL, Bootstrap, jQuery.
+- 🌱 Actualmente estoy aprendiendo JavaScript, Git, PHP y explorando nuevas tecnologías.
+- 👥 Abierto a nuevas oportunidades de aprendizaje y trabajo.
 
-💻 Habilidades: HTML, CSS, Java, Javascript, SQL, Bootstrap o JQuery. 
+## 🔧 Proyectos Destacados en el repositorio miCodigo
 
-🔧 Proyectos Destacados en mi repositorio
+## 📫 ¡Conéctate conmigo!
+- LinkedIn: https://www.linkedin.com/in/romel-romero-garc%C3%ADa-228144298/.
 
-🌱 Actualmente aprendiendo JavaScript, Git, PHP y profundizando en nuevas tecnologías
-
-👥 Abierto a nuevas oportunidades de aprendizaje y de trabajo.
+¡No dudes en explorar mis repositorios! 
 
 
 
