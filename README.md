@@ -6,7 +6,8 @@
 - 🌱 Actualmente estoy aprendiendo JavaScript, Git, PHP y explorando nuevas tecnologías.
 - 👥 Abierto a nuevas oportunidades de aprendizaje y trabajo.
 
-## 🔧 Proyectos Destacados en el repositorio miCodigo
+## 🔧 Proyectos Destacados 
+   https://github.com/romga24/miCodigo
 
 ## 📫 ¡Conéctate conmigo!
 - LinkedIn: https://www.linkedin.com/in/romel-romero-garc%C3%ADa-228144298/.
