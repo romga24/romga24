@@ -5,8 +5,7 @@
 
 💻 Habilidades: HTML, CSS, Java, SQL, Bootstrap o JQuery. 
 
-🔧 Proyectos Destacados:
-...
+🔧 Proyectos Destacados en mi repositorio
 
 🌱 Actualmente aprendiendo JavaScript, Git, PHP y profundizando en nuevas tecnologías
 
