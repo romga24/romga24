@@ -1,5 +1,5 @@
 
-# 👋 ¡Hola! Soy Romel, estudiante en práctica de informática y apasionado programador.
+# 👋 ¡Hola! Soy Romel, estudiante en prácticas de informática y apasionado programador.
 
 ## 🚀 Acerca de mí
 - 💻 **Habilidades**:
