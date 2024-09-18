@@ -5,7 +5,7 @@
 - 💻 **Habilidades**:
     - **Frontend**: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind, Angular.
     - **Backend**: Java, PHP, Spring Boot, SQL (bases de datos relacionales).
-- 🌱 Actualmente estoy aprendiendo **JavaScript**, **Git**, **PHP** y explorando nuevas tecnologías.
+- 🌱 Actualmente estoy aprendiendo y explorando nuevas tecnologías.
 - 👥 Estoy abierto a **nuevas oportunidades** de aprendizaje y trabajo.
 
 ## 🔧 Proyectos Destacados 
