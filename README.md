@@ -2,7 +2,9 @@
 ¡Hola! 👋 Soy Romel, estudiante de informática y apasionado programador.
 
 🚀 Acerca de mí
-- 💻 Habilidades: HTML, CSS, Java, SQL, Bootstrap, jQuery.
+- 💻 Habilidades:
+        - Frontend: HTML, CSS, Javascript, Typescript, Bootstrap, Taildwind, Angular.
+        - Backend: Java, PHP, Springboot. Base de datos relacionales (SQL).
 - 🌱 Actualmente estoy aprendiendo JavaScript, Git, PHP y explorando nuevas tecnologías.
 - 👥 Abierto a nuevas oportunidades de aprendizaje y trabajo.
 
