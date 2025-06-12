@@ -1,10 +1,10 @@
 
-# 👋 ¡Hola! Soy Romel, Técnico Superior en Desarrollo de Apliaciones Web apasionado programador.
+# 👋 ¡Hola! Soy Romel, Técnico Superior en Desarrollo de Aplicaciones Web apasionado programador.
 
 ## 🚀 Acerca de mí
 - 💻 **Habilidades**:
     - **Frontend**: HTML, CSS, JavaScript, TypeScript, Bootstrap, Tailwind, Angular.
-    - **Backend**: Java, PHP, Spring Boot,  SQL (bases de datos relacionales), SQL Server, .NET Core, Entity Framework, .
+    - **Backend**: Java, PHP, Spring Boot,  SQL (bases de datos relacionales), SQL Server, .NET Core, Entity Framework, Clean Architecture, Git, Azure DevOps y metodologías ágiles.
 - 🌱 Actualmente estoy aprendiendo y explorando nuevas tecnologías.
 - 👥 Estoy abierto a **nuevas oportunidades** de aprendizaje y trabajo.
 
