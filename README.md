@@ -11,9 +11,11 @@
 ## 🔧 Proyectos Destacados 
 
 - **Trabajo de Fin de Ciclo**: Desarrollo de una aplicación de reserva de billetes de aerolíneas.  
-  Mi trabajo fue realizar la parte backend de la aplicación: [Repositorio en GitHub](https://github.com/romga24/NodeJS_MVC_PostgreSQL.git). 
-  Tecnologías usadas: React, Nodejs (ORM, Sequalize, Patrón MVC), PostgreSQL.  
-  Funcionalidades principales: gestión de vuelos, reservas, clientes y billetes, además de un panel de administración para el control integral del sistema.
+  - Mi trabajo fue realizar la parte backend de la aplicación.  
+  - [Repositorio en GitHub](https://github.com/romga24/NodeJS_MVC_PostgreSQL.git)  
+  - Tecnologías usadas: React, Node.js (ORM, Sequelize, Patrón MVC), PostgreSQL.  
+  - Funcionalidades principales: gestión de vuelos, reservas, clientes y billetes, además de un panel de administración para el control integral del sistema.
+
 
 
 ## 📫 ¡Conéctate conmigo!
