@@ -10,10 +10,10 @@
 
 ## 🔧 Proyectos Destacados 
 
-- **Trabajo de Fin de Ciclo**: Desarrollo de una aplicación de reserva de billetes de aviones.  
-  [Repositorio en GitHub](https://github.com/tu-usuario/tu-repo)  
-  Tecnologías usadas: Angular, Nodejs, PostgreSQL .  
-  Funcionalidades principales: gestión de vuelos, de reservas, clientes y billetes y panel de administración.
+- **Trabajo de Fin de Ciclo**: Desarrollo de una aplicación de reserva de billetes de aerolíneas.  
+  [Repositorio en GitHub]((https://github.com/romga24/NodeJS_MVC_PostgreSQL.git))  
+  Tecnologías usadas: Angular, Nodejs, PostgreSQL.  
+  Funcionalidades principales: gestión de vuelos, reservas, clientes y billetes, además de un panel de administración para el control integral del sistema.
 
 
 ## 📫 ¡Conéctate conmigo!
